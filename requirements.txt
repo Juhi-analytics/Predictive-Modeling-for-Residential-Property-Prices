@@ -1,0 +1,6 @@
+numpy 
+pandas 
+seaborn
+scikit-learn
+streamlit==1.53.1
+altair==4.2.2
